@@ -8,7 +8,7 @@ I have extensive experience in C ,C++ and Java.
 -  **Tech Skills**: Proficient in Java, C/C++, and IoT device programming.
 -  **Hobbies**: Avid player of Android:Netrunner, Magic: The Gathering, and Poker. Huge fan of EVE Online.
 -  **Learning**: I'm all about hands-on projects and videos to pick up new skills.
--  **Proud Project**: Developed a volunteer management system for a local food bank, streamlining their operations and making a difference in the community.
+-  **Proud Project**: Developed a volunteer management system for a local food bank ,helping the staff manage the large number of volunteers and donors.
 -  **Next Big Goal**: Creating a more user-friendly market app for EVE Online to enhance the trading experience for players.
 
 ## My Projects
