@@ -20,8 +20,8 @@ I have extensive experience in C ,C++ and Java.
 
 ## How I Work
 
--  **Team Collaboration**: I thrive in team settings where ideas flow freely, and friendly competition spurs innovation.
--  **Problem-Solving**: Approach challenges head-on, discussing with peers and focusing on root cause analysis over workarounds.
+-  **Team Collaboration**: I thrive in team settings and enjoy friendly competition.
+-  **Problem-Solving**: Approach challenges head-on, focus on root cause analysis over workarounds.
 
 ## Let's Connect!
 
