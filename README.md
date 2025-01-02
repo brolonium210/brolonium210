@@ -5,7 +5,7 @@ I have extensive experience in C ,C++ and Java.
 
 ## About Me
 
--  **Tech Skills**: Proficient in Java, C/C++, and IoT device programming.
+-  **Tech Skills**: Proficient in Java ,C and C++.
 -  **Learning**: I'm all about hands-on projects.
 -  **Proud Project**: Developed a volunteer management system for a local food bank ,helping the staff manage the large number of volunteers and donors.
 
