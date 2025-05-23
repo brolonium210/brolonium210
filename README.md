@@ -1,6 +1,6 @@
 # Hello, I'm @brolonium210
 
-I'm a freelance Android app developer with a passion for community service. 
+I'm a freelance software developer with a passion for community service. 
 I have extensive experience in C ,C++ and Java.
 
 ## About Me
