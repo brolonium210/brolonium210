@@ -12,19 +12,15 @@ I have extensive experience in C ,C++ and Java.
 
 ## 📡 Multiplayer Networking Core
 - **Description:** A WebSocket/WebRTC wrapper for real-time multiplayer games.  
----
 
 ## 🎵 Audio Pitch and Tone Detector
 - **Description:** Detects pitch from microphone input and maps it to notes.  
----
 
 ## 🥁 Rhythm & Timing Engine
 - **Description:** Manages note charts and scoring based on timing and accuracy.  
----
 
 ## 🏟️ Multiplayer Arena & Matchmaking
 - **Description:** Matchmaking and sync system.  
----
 
 ## How I Work
 
