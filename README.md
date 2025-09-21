@@ -21,8 +21,3 @@ I have extensive experience in C ,C++ and Java.
 -  **Team Collaboration**: I thrive in team settings and enjoy friendly competition.
 -  **Problem-Solving**: Approach challenges head-on, focus on root cause analysis over workarounds.
 
-## Let's Connect!
-
--  **Email**: parrwgrah@myvuw.ac.nz
-
-
