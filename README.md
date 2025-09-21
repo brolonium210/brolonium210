@@ -5,16 +5,26 @@ I have extensive experience in C ,C++ and Java.
 
 ## About Me
 
--  **Tech Skills**: Proficient in Java ,C and C++.
+-  **Tech Skills**: Proficient in Java ,C ,C++ and Verilog.
 -  **Learning**: I'm all about hands-on projects.
--  **Proud Project**: Developed a volunteer management system for a local food bank ,helping the staff manage the large number of volunteers and donors.
 
 ## My Projects
 
-- **Volunteer Management App**: 
-  - Upkeep & Maintenance: Ensure app stability with regular updates and dealing with bugs.
-  - UX Enhancements: Improve usability based on feedback from the Vollies and the Donors.
-  - Data Management: Secure data properly, develop and manage the back up process.
+## 📡 Multiplayer Networking Core
+- **Description:** A WebSocket/WebRTC wrapper for real-time multiplayer games.  
+---
+
+## 🎵 Audio Pitch and Tone Detector
+- **Description:** Detects pitch from microphone input and maps it to notes.  
+---
+
+## 🥁 Rhythm & Timing Engine
+- **Description:** Manages note charts and scoring based on timing and accuracy.  
+---
+
+## 🏟️ Multiplayer Arena & Matchmaking
+- **Description:** Matchmaking and sync system.  
+---
 
 ## How I Work
 
